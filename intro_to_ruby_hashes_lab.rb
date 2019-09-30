@@ -15,7 +15,11 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
+<<<<<<< HEAD
   my_hash_creator = {[:key] => 
+=======
+  my_hash_creator = {:key => 'value'}
+>>>>>>> f73aa242b5a6f3c91b9026cbfd1fa79536f976aa
   
 end
 
